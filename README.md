@@ -6,8 +6,7 @@
 💻 Languages
 
   - Python
-  - C++
-  - C
+  - C/C++
   - VHDL
   - Assembly
 
