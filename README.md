@@ -1,15 +1,10 @@
-👨‍🎓 About Me
+# About Me
 
-  - Electrical Engineering student.
-  - Passionate about Engineering, CyberSecurity, and microcontrollers.
+I'm an Electrical Engineering student with strong interests in:
 
-💻 Languages
-
-  - Python
-  - C/C++
-  - VHDL
-  - Assembly
-
-📬 Contact
-
-- Email: gdantas@tuta.io
+- Python and C++  
+- Machine Learning  
+- Cybersecurity  
+- Linux and Operating Systems
+- Microcontrollers
+- Electronics
